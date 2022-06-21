@@ -1,0 +1,19 @@
+{
+  "name": "movies-api",
+  "version": "1.0.0",
+  "description": "Simple REST API for movies supporting CRUD operations, and ability to search for movies by name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanbergman98/movies-api.git"
+  },
+  "author": "Sean Bergman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanbergman98/movies-api/issues"
+  },
+  "homepage": "https://github.com/seanbergman98/movies-api#readme"
+}
